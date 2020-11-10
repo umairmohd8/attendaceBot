@@ -4,3 +4,5 @@ att2.py
 a.py
 table.py
 __pycache__
+geckodriver.log
+test.py
